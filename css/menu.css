@@ -341,13 +341,13 @@ body::before {
 
 .video-slider-wrapper .prev {
     left: -51px;
-    background-image: url('/cumplemes/img/prev-arrow.png');
+    background-image: url('../img/prev-arrow.png');
     transform: rotate(180deg);
 }
 
 .video-slider-wrapper .next {
     right: -51px;
-    background-image: url('/cumplemes/img/prev-arrow.png');
+    background-image: url('../img/prev-arrow.png');
 }
 
 .video-slider-wrapper .slider-button:hover {
