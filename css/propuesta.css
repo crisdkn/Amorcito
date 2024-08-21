@@ -1,6 +1,6 @@
 body {
     background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro con transparencia para oscurecer la imagen */
-    background-image: url('/img/fondogalaxia.avif'); /* Imagen de fondo */
+background-image: url('../img/fondogalaxia.avif');
 
     background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el fondo */
     background-position: center; /* Centra la imagen de fondo */
