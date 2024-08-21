@@ -1,6 +1,6 @@
 body {
     background-color: rgba(0, 0, 0, 0.6); /* Fondo oscuro con mayor transparencia */
-    background-image: url('/img/fondo.jpeg'); /* Imagen de fondo */
+    background-image: url('../img/fondo.jpeg'); /* Imagen de fondo */
     background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
     background-repeat: repeat-y; /* Repite la imagen solo en el eje vertical (hacia abajo) */
     background-attachment: fixed; /* La imagen de fondo permanece fija al hacer scroll */
