@@ -1,6 +1,6 @@
 body {
     background-color: rgb(238, 243, 168); /* Fondo suave */
-    background-image: url('/cumplemes/img/fondo.png'); /* Imagen de fondo */
+    background-image: url('/img/fondo.png'); /* Imagen de fondo */
     background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el fondo */
     background-position: center; /* Centra la imagen de fondo */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
