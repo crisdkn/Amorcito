@@ -13,10 +13,11 @@
 <body>
 
     <button id="music-control" onclick="toggleMusic()">
-        <img id="music-icon" src="/img/on.png" alt="Control de música">
+        <img id="music-icon" src="/Amorcito/img/on.png" alt="Control de música">
     </button>
     
-    <audio id="background-music" src="/img/coldman.mp3" autoplay loop></audio>
+    <audio id="background-music" src="/Amorcito/img/coldman.mp3" autoplay loop></audio>
+
 
 
     
@@ -304,7 +305,7 @@
                 console.log('No se pudo reproducir automáticamente:', error);
                 // Puedes agregar un mensaje para el usuario aquí
             });
-            musicIcon.src = "../img/on.png"; // Cambia a la imagen "on"
+            musicIcon.src = "/img/on.png"; // Cambia a la imagen "on"
         } else {
             backgroundMusic.pause();
             musicIcon.src = "../img/off.png"; // Cambia a la imagen "off"
